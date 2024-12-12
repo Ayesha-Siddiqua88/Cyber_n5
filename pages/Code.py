@@ -5,7 +5,6 @@ import plotly.express as px
 import re
 import chardet
 from streamlit_option_menu import option_menu
-import nmap
 import networkx as nx
 import matplotlib.pyplot as plt
 
